@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/3o85xGocUH8RYoDKKs/giphy.gif">  
-</div>
 <h3>Hello there! 👋</h3>
 <h3>About Me</h3>
 <ul>
