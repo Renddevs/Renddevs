@@ -1,4 +1,7 @@
-### Hello there! 👋
+<div align="center">
+  <img src="https://media3.giphy.com/media/3o85xGocUH8RYoDKKs/giphy.gif">  
+</div>
+<h3>Hello there! 👋</h3>
 <h3>About Me</h3>
 <ul>
   <li>🧑 My name is Rendy Praseptya Nugraha.</li>
@@ -24,11 +27,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30"/>        
   </p>
   <hr>
-  <h3>Contact Me 🏷</h3>
-  <p>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <div>
+    <h3>Contact Me 🏷</h3>
+    <p>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </p>
+    </p>
+  </div>
+  
 <!--<ol type="number">-->
   <!-- <li>I usually identify areas in a business process that need improvement. I will conduct a thorough analysis, collect data, and evaluate existing processes. After that, I will design solutions that integrate information technology, such as the use of relevant web applications, digital platforms, and automation systems.</li> -->
   
