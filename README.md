@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🧑 My name is Rendy Praseptya Nugraha
+- 🔭 I’m currently working on Media Indo Teknologi (MIT), Tech Consultant
 <!--
 **Renddevs/Renddevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
